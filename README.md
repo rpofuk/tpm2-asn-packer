@@ -2,6 +2,8 @@
 
 You need to install npm :)
 
+# objectId is actually parent object id !!!
+
 ```
 @:~/git/tpm2-asn-packer$ npx @rpofuk/tpm2-asn-packer@1.0.2 --help
 npx: installed 48 in 3.139s
