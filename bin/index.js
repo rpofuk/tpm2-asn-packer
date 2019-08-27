@@ -9,7 +9,7 @@ program
   .description('Contact management system');
 
 program
-  .command('package <objectId> <parentId>  <privateKey> <publicKey> <outFile>`')
+  .command('package <objectId> <parentId> <privateKey> <publicKey> <outFile>')
   .alias('p')
   .description('Package TPM2 private and public key into PEM file')
   .action((objectId, parentId, privateKey, publicKey, outFile) => {
