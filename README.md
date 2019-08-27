@@ -1,5 +1,6 @@
 # tpm2-asn-packer
 
+You need to install npm :)
 
 ```
 @:~/git/tpm2-asn-packer$ npx @rpofuk/tpm2-asn-packer@1.0.2 --help
